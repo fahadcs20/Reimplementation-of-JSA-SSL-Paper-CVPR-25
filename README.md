@@ -3,3 +3,7 @@ A PyTorch reimplementation of "Improving Sound Source Localization with Joint Sl
 
 Main Paper Link: 
 https://doi.org/10.48550/arXiv.2504.15118
+
+
+Kaggle Notebook Link of my Reimplementation:
+https://www.kaggle.com/code/mdabdullahalfahadcv/dummydataver-jsa-ssl
